@@ -1,0 +1,28 @@
+1- B) Application Programming Interface 
+
+
+2- D) Cada requisição do cliente para o servidor deve conter todas as informações necessárias 
+
+
+3- E) PATCH 
+
+
+4- C) 401 Unauthorized 
+
+
+5- D) git commit -m "mensagem" 
+
+
+6- A) MTV (Model, Template, View) 
+
+
+7- C) python manage.py startapp tarefas 
+
+
+8- E) urls.py 
+
+
+9- B) python manage.py migrate 
+
+
+10- C) JsonResponse
